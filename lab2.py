@@ -25,7 +25,7 @@ def main():
     add_pizza_toppings(about_me, ('broccoli','SPINACH'))
     print_pizza_toppings(about_me)
     print_movie_genres(about_me)
-    print_movie_titles(about_me, )
+    print_movie_titles(about_me)
 
 def print_student_name_and_id(about_me):
     student_name = about_me['full_name']
